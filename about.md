@@ -26,14 +26,15 @@ nav_order: 1
 - **Програмування**: вміння програмувати на Python.
 
 
+Курс лекцій
+: 1. Таран В. І., Гордієнко Ю. Г., Стіренко С. Г. (2024). [*Вступ до технологій штучного інтелекту*](https://ela.kpi.ua/bitstreams/034ae945-e7a1-4827-86c1-e89ec447a011/download).
+
+
 Підручники
 : 1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Машинне навчання*](https://drive.google.com/file/d/130ruX0CGGNtX1E39Y622Bu_CThHjb9nc/view?usp=sharing).
 1. Goodfellow, I., Bengio, Y., & Courville, A. (2016).  [*Deep Learning.* ](https://www.deeplearningbook.org/) MIT press.
 1. Sutton, R. S., & Barto, A. G. (2018). [*Reinforcement learning: An introduction*](http://incompleteideas.net/book/the-book-2nd.html). MIT press.
 1. Russell, S., & Norvig, P. (2021). [*Artificial Intelligence: A Modern Approach.*](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997#customerReviews)
-
-Курс лекцій
-: 1. Таран В. І., Гордієнко Ю. Г., Стіренко С. Г. (2024). [*Вступ до технологій штучного інтелекту*](https://ela.kpi.ua/bitstreams/034ae945-e7a1-4827-86c1-e89ec447a011/download).
 
 
 ## На випадок повітряної тривоги
