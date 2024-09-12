@@ -3,8 +3,8 @@ title: Знайомство
 ---
 
 05 вер
-: **Огляд**{: .label .label-blue}**Загальні деталі 👋**
-  : [[HML]()][[PDF]()]
+<!-- : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
+  : [[HML]()][[PDF]()] -->
 : **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
   : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
 : **Огляд**{: .label .label-red}**NumPy**
