@@ -10,5 +10,9 @@ title: Знайомство
 : **ПР #1**{: .label .label-purple} **Знайомство з Jupyter Notebook**
   : [[PDF](https://drive.google.com/file/d/1iU3yG8rD7Rw8UEBCr6HoA3fF07ioFo0g/view?usp=sharing)]
 
+06 жов
+: **ПР #2**{: .label .label-purple} **Інтелектуальні агенти**
+  : [[PDF](https://drive.google.com/file/d/1AoYkMJeSW_Eg8jmBacwDMcIuB-jZwQ3x/view?usp=sharing)]
+
 
   
