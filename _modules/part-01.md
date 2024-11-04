@@ -14,5 +14,7 @@ title: Знайомство
 : **ПР #2**{: .label .label-purple} **Інтелектуальні агенти**
   : [[PDF](https://drive.google.com/file/d/1AoYkMJeSW_Eg8jmBacwDMcIuB-jZwQ3x/view?usp=sharing)]
 
-
+04 лис
+: **ПР #3**{: .label .label-purple} **Агенти на основі знань**
+  : [[PDF](https://drive.google.com/file/d/1ZnHtYheZmUWeKCR5lVhMeCsj4fvn88FR/view?usp=sharing)]
   
