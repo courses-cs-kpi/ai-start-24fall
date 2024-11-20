@@ -17,4 +17,8 @@ title: Знайомство
 04 лис
 : **ПР #3**{: .label .label-purple} **Агенти на основі знань**
   : [[PDF](https://drive.google.com/file/d/1ZnHtYheZmUWeKCR5lVhMeCsj4fvn88FR/view?usp=sharing)]
+
+20 лис
+: **ПР #4**{: .label .label-purple} **Нейронні мережі**
+  : [[PDF](https://drive.google.com/file/d/1jP1e9z3o4t4tyTfUHdELLNz6MBGYlpe0/view?usp=sharing)]
   
